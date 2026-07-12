@@ -79,3 +79,11 @@ Format the codebase using Prettier:
 ```bash
 npm run format
 ```
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Wijaya Kusuma**
+
+</div>
